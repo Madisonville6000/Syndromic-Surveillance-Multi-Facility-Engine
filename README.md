@@ -4,10 +4,10 @@ An automated public health tracking framework engineered to monitor emerging ano
 ## The Catalyst
 Traditional public health monitoring structures move too slowly to contain volatile disease vectors due to disconnected, delayed facility data streams. This lag leaves national teams reactive, allowing regional anomalies to breach border zones completely unnoticed.
 
-## Observations
+## Core Observations
 Processing 250 critical incoming signal feeds across 8 syndromic pathways successfully isolated background media noise from genuine threats. The data models successfully captured a high-severity, active regional outbreak spike in Bangladesh that broke historical baseline thresholds.
 
-## Execution Blueprint
+## 🛠️ Execution Blueprint
 I engineered automated data transformation pipelines using Advanced Power Query to ingest multi-source facility streams seamlessly. This was integrated with a structured Star Schema database architecture to eliminate relationship cross-filtering processing lag during large-scale queries.
 
 ## Concrete Metrics
