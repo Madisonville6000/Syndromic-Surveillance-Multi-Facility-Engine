@@ -1,6 +1,19 @@
 # Syndromic Surveillance & Multi-Facility Reporting Engine
 An automated public health tracking framework engineered to monitor emerging anomalies and cross-border transmission risks.
 
+## Dashboard Preview
+
+### System Summary Canvas (Page 1)
+![Surveillance Overview Dashboard](surveillance_overview.png)
+
+### Multi-Facility Risk Scenario Matrix (Page 4)
+![Impact Scenario Dashboard](impact_scenario.png)
+
+---------------------------------------------------------
+
+
+
+
 ## The Catalyst
 Traditional public health monitoring structures move too slowly to contain volatile disease vectors due to disconnected, delayed facility data streams. This lag leaves national teams reactive, allowing regional anomalies to breach border zones completely unnoticed.
 
