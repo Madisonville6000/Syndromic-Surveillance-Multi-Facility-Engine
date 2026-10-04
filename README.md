@@ -7,7 +7,7 @@ An automated public health tracking framework engineered to monitor emerging ano
 ![Surveillance Overview Dashboard](surveillance_overview_org.png)
 
 ### Multi-Facility Risk Scenario Matrix (Page 4)
-![Impact Scenario Dashboard](impact_scenario.png)
+![Impact Scenario Dashboard](impact_scenario_org.png)
 
 ---------------------------------------------------------
 
