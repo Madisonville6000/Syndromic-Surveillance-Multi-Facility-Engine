@@ -4,7 +4,7 @@ An automated public health tracking framework engineered to monitor emerging ano
 ## Dashboard Preview
 
 ### System Summary Canvas (Page 1)
-![Surveillance Overview Dashboard](surveillance_overview org.png) 
+![Surveillance Overview Dashboard](surveillance_overview_org.png)
 
 ### Multi-Facility Risk Scenario Matrix (Page 4)
 ![Impact Scenario Dashboard](impact_scenario.png)
